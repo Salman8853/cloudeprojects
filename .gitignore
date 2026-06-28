@@ -1,0 +1,5 @@
+# Ignore target directory (Maven build output)
+target/
+
+# Ignore IDE configuration directory
+.idea/
